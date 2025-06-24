@@ -1,6 +1,9 @@
 # knifeguard-bot_telegram
 KnifeGuard Bot: AI-powered weapon detection system for customs control. Uses computer vision to identify 4 combat knife types in X-ray scans with 85% accuracy and progressive metric stabilization.
 This Telegram bot uses a state-of-the-art YOLOv8 model to identify four types of combat knives in X-ray images from inspection systems. It's designed for customs control to detect dangerous objects without physical inspection.
+
+
+
 ![image](https://github.com/user-attachments/assets/42f2077c-f4f8-4e32-8a00-c264fcc509cc)
 
 
